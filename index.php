@@ -114,7 +114,7 @@
           <div class="row">
          
               <div class="col-md-12 col-lg-6">
-                  <div class="contents" data-aos="zoom-out-right" data-aos-duration="3000">
+                  <div class="contents" data-aos="fade-up" data-aos-duration="3000">
                       <h2 class="head-title pb-2">A Few Words About Us</h2>
                       <p class="head-para mb-4">Seedkaro aims to act as a bridge that connects high quality founders with a previously untapped but extremely knowledgeable investor base.<br><br>
                           With first hand experience, we have often noticed that founders who lack backing of a corporate sponsor or those who do not belong to an alumini network of an A-grade B-school often find it frustrating to gain access to equity funding. In similar vier, individual investors who have access to capital as well as experience to provide mentorship, are often not easily provided access to private equity as an asset class.<br><br>
@@ -125,7 +125,7 @@
                   </div>
               </div>
               <div class="col-md-12 col-lg-6">
-                  <div class="contents text-center mt-5" data-aos="zoom-out-left" data-aos-duration="3000">
+                  <div class="contents text-center mt-5" data-aos="fade-up" data-aos-duration="3000">
                       <img src="images/aboutus.png" class="img-fluid" alt="Responsive image">
                   </div>
               </div>
