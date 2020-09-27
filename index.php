@@ -2,7 +2,7 @@
 
   <!-- banners section start -->
   <!-- banner start -->
-  <section class="banner bg-light">
+  <section id="home" class="banner bg-light">
       <div class="container">           
       <div class="row">
           <div class="col-lg-6 banner-text">
@@ -24,7 +24,7 @@
 
  
   <!-- Why_clients section start -->
-  <section class="Why_clients my-5 ">
+  <section id="our-feature" class="Why_clients my-5 ">
       <div class="container">
           <div class="section-header text-center pb-4">
               <h2 class="head-title">Our Feature</h2>
@@ -109,7 +109,7 @@
   <!-- Why_clients section end -->
 
  <!-- aboutus section start -->
- <section class="aboutus bg-light py-5">
+ <section id="about-us" class="aboutus bg-light py-5">
       <div class="container">
           <div class="row">
          

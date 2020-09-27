@@ -37,10 +37,10 @@ require("config/page_config.php");
 
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto w-100 justify-content-end clearfix">
-                        <li class="nav-item home_nav active"><a class="nav-link" href="index.php">Home</a></li>
-                        <li class="nav-item active pl-4"><a class="nav-link" href="index.php">Invester</a></li>
-                        <li class="nav-item active pl-4"><a class="nav-link" href="index.php">Founder</a></li>
-                        <li class="nav-item active pl-4"><a class="nav-link" href="index.php">Market Place</a></li>
+                        <li class="nav-item home_nav active"><a class="nav-link" href="#home">Home</a></li>
+                        <li class="nav-item active pl-4"><a class="nav-link" href="#our-feature">Our Feature</a></li>
+                        <li class="nav-item active pl-4"><a class="nav-link" href="#about-us">About Us</a></li>
+                        <li class="nav-item active pl-4"><a class="nav-link" href="#testimonial">Testimonials</a></li>
                         <li class="nav-item dropdown active pl-4">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             My Account
